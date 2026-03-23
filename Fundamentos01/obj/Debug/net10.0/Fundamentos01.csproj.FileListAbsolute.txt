@@ -1,0 +1,15 @@
+C:\_Dev\uc245-Fundamentos\Fundamentos01\obj\Debug\net10.0\Fundamentos01.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\uc245-Fundamentos\Fundamentos01\obj\Debug\net10.0\Fundamentos01.AssemblyInfoInputs.cache
+C:\_Dev\uc245-Fundamentos\Fundamentos01\obj\Debug\net10.0\Fundamentos01.AssemblyInfo.cs
+C:\_Dev\uc245-Fundamentos\Fundamentos01\obj\Debug\net10.0\Fundamentos01.csproj.CoreCompileInputs.cache
+C:\_Dev\uc245-Fundamentos\Fundamentos01\obj\Debug\net10.0\Fundamentos01.sourcelink.json
+C:\_Dev\uc245-Fundamentos\Fundamentos01\bin\Debug\net10.0\Fundamentos01.exe
+C:\_Dev\uc245-Fundamentos\Fundamentos01\bin\Debug\net10.0\Fundamentos01.deps.json
+C:\_Dev\uc245-Fundamentos\Fundamentos01\bin\Debug\net10.0\Fundamentos01.runtimeconfig.json
+C:\_Dev\uc245-Fundamentos\Fundamentos01\bin\Debug\net10.0\Fundamentos01.dll
+C:\_Dev\uc245-Fundamentos\Fundamentos01\bin\Debug\net10.0\Fundamentos01.pdb
+C:\_Dev\uc245-Fundamentos\Fundamentos01\obj\Debug\net10.0\Fundamentos01.dll
+C:\_Dev\uc245-Fundamentos\Fundamentos01\obj\Debug\net10.0\refint\Fundamentos01.dll
+C:\_Dev\uc245-Fundamentos\Fundamentos01\obj\Debug\net10.0\Fundamentos01.pdb
+C:\_Dev\uc245-Fundamentos\Fundamentos01\obj\Debug\net10.0\Fundamentos01.genruntimeconfig.cache
+C:\_Dev\uc245-Fundamentos\Fundamentos01\obj\Debug\net10.0\ref\Fundamentos01.dll
