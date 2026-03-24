@@ -11,7 +11,7 @@ public class VariaveisETiposDeDados
 
         int idade = 25;
         double altura = 1.75;
-        float media = 195;
+        //float media = 195;
         char letra = 'A';
         string nome = "Humberto";
         string nomeComposto = nome + " Santos"; // + é concatenação
