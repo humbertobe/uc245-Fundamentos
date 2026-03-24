@@ -16,6 +16,9 @@ public class Aula01
         OperadoresComparacao operadoresComparacao = new OperadoresComparacao();
         operadoresComparacao.Executar();
 
+        OperadoresLogicos operadoresLogicos = new OperadoresLogicos();
+        operadoresLogicos.Executar();
+
         //fim
         this.ResumoAula();
     }
