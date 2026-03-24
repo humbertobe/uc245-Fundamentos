@@ -13,7 +13,8 @@ public class Aula01
         operadoresAritmeticos operadoresAritmeticos = new operadoresAritmeticos();
         operadoresAritmeticos.Executar();
     
-       //
+        OperadoresComparacao operadoresComparacao = new OperadoresComparacao();
+        operadoresComparacao.Executar();
 
         //fim
         this.ResumoAula();
