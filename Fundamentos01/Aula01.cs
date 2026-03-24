@@ -7,6 +7,9 @@ public class Aula01
         //inicio
         this.ExibirCabecalho();
 
+       VariaveisETiposDeDados variaveisETiposDeDados = new VariaveisETiposDeDados();
+       variaveisETiposDeDados.Executar();
+
         //fim
         this.ResumoAula();
     }
